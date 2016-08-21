@@ -1,0 +1,42 @@
+{
+  "name": "vocabulary-cli",
+  "version": "1.0.0",
+  "description": "Command line tool for vocabulary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangaobo/vocabulary-cli.git"
+  },
+  "keywords": [
+    "vocabulary",
+    "cli"
+  ],
+  "author": "Aobo Yang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yangaobo/vocabulary-cli/issues"
+  },
+  "homepage": "https://github.com/yangaobo/vocabulary-cli#readme",
+  "dependencies": {
+    "lodash": "^4.15.0",
+    "vorpal": "^1.11.4"
+  },
+  "devDependencies": {
+    "eslint": "^3.2.2"
+  },
+  "eslintConfig": {
+    "extends": "eslint:recommended",
+    "env": {
+      "node": true
+    },
+    "parserOptions": {
+      "ecmaVersion": 6
+    },
+    "rules": {
+      "no-console": "off"
+    }
+  }
+}
