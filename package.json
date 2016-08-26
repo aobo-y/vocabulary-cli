@@ -1,9 +1,12 @@
 {
   "name": "vocabulary-cli",
-  "version": "1.0.0-alpha.1",
+  "version": "1.0.0-alpha.2",
   "description": "Command line tool for vocabulary",
   "main": "index.js",
-  "bin": "bin/vocabulary-cli",
+  "bin": {
+    "vocabulary-cli": "bin/vocabulary-cli",
+    "voc-cli": "bin/vocabulary-cli"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
