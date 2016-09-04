@@ -26,6 +26,7 @@
   "homepage": "https://github.com/yangaobo/vocabulary-cli#readme",
   "dependencies": {
     "lodash": "^4.15.0",
+    "mkdirp": "^0.5.1",
     "vorpal": "^1.11.4"
   },
   "devDependencies": {
