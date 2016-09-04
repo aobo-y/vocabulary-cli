@@ -1,6 +1,6 @@
 {
   "name": "vocabulary-cli",
-  "version": "1.0.0-alpha.3",
+  "version": "1.0.0-alpha.4",
   "description": "Command line tool for vocabulary",
   "main": "index.js",
   "bin": {
@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/yangaobo/vocabulary-cli#readme",
   "dependencies": {
+    "chalk": "^1.1.3",
     "lodash": "^4.15.0",
     "mkdirp": "^0.5.1",
     "vorpal": "^1.11.4"
