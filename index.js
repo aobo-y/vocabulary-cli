@@ -8,5 +8,5 @@ process.on("SIGINT", function () {
 });
 
 client
-  .delimiter('voc-cli>')
+  .delimiter('voc-cli~$')
   .show()
