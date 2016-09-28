@@ -1,6 +1,6 @@
 {
   "name": "vocabulary-cli",
-  "version": "1.0.0-alpha.8",
+  "version": "1.0.0-alpha.9",
   "description": "Command line tool for vocabulary",
   "main": "index.js",
   "bin": {
