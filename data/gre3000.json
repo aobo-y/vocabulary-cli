@@ -7337,7 +7337,7 @@
   },
   "preoccupation": {
     "listIndex": 19,
-    "meaning": "非常关系，全神贯注：extreme concern"
+    "meaning": "非常关心，全神贯注：extreme concern"
   },
   "preponderant": {
     "listIndex": 19,
@@ -8661,7 +8661,7 @@
   },
   "scotch": {
     "listIndex": 22,
-    "meaning": "停止：put an end to"
+    "meaning": "阻止，粉碎，停止：put an end to"
   },
   "scour": {
     "listIndex": 22,
@@ -9851,9 +9851,13 @@
     "listIndex": 25,
     "meaning": "蹒跚，不稳定地行走：unsteadily；犹豫不决：uncertainty"
   },
-  "telling": {
+  "teetotalism": {
     "listIndex": 25,
     "meaning": "禁酒：abstinence alcoholic"
+  },
+  "telling": {
+    "listIndex": 25,
+    "meaning": "有效的， 显著的: effective"
   },
   "temerity": {
     "listIndex": 25,
@@ -9996,7 +10000,7 @@
     "meaning": "滋补的，有益健康的：stimulating vigor, beneficial"
   },
   "topsy-turvy": {
-    "listIndex": 25,
+    "listIndex": 26,
     "meaning": "混乱的：lacking in order"
   },
   "torpid": {
@@ -10396,7 +10400,7 @@
     "meaning": "毒液：poisonous matter；恶意，恶毒的用心：desire to cause pain"
   },
   "veracious": {
-    "listIndex": 26,
+    "listIndex": 27,
     "meaning": "诚实的，说实话的：telling the truth；精确的，准确的：precise"
   },
   "verbatim": {
